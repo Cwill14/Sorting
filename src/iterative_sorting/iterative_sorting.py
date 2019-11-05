@@ -24,7 +24,7 @@ def selection_sort( arr ):
 def bubble_sort( arr ):
     # BELOW IS A LIE   
     swapped = True
-    # LIE ^
+    # LIE ^^^^^^^^
     # if no swaps performed, stop. else, go back to element at index 0 and repeat step 1
     while swapped == True:
     # loop through array
